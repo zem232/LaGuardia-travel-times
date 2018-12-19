@@ -1,6 +1,5 @@
 # Evaluation of LaGuardia Air Train Proposal Re: Travel Times
 Evaluation of current travel times to LaGuardia Airport to compare with anticipated travel times with the proposed Air Train solution.
-<br/>
 ### Order to run notebooks:
 <br/>
 #### Download MTA Bus & Subway Data with API key
