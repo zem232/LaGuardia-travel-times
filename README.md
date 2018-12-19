@@ -5,7 +5,7 @@ Evaluation of current travel times to LaGuardia Airport to compare with anticipa
 #### Download MTA Bus & Subway Data with API key
 get_mta_data
 
-#### Extract relevant information, organize into CSV files, produce frequency/wait distribution plots:
+#### Extract Relevant Information
 Python scripts used to clean bus data once downloaded are in the data-downloads folder:
 <br/>
 all notebooks which reference 'get_bus_info_2.py', for example get_bus_Q70
